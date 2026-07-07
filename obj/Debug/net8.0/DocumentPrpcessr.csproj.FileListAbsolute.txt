@@ -1,0 +1,14 @@
+/Users/sarahalsarami/DocumentPrpcessr/bin/Debug/net8.0/DocumentPrpcessr
+/Users/sarahalsarami/DocumentPrpcessr/bin/Debug/net8.0/DocumentPrpcessr.deps.json
+/Users/sarahalsarami/DocumentPrpcessr/bin/Debug/net8.0/DocumentPrpcessr.runtimeconfig.json
+/Users/sarahalsarami/DocumentPrpcessr/bin/Debug/net8.0/DocumentPrpcessr.dll
+/Users/sarahalsarami/DocumentPrpcessr/bin/Debug/net8.0/DocumentPrpcessr.pdb
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.AssemblyInfoInputs.cache
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.AssemblyInfo.cs
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.csproj.CoreCompileInputs.cache
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.dll
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/refint/DocumentPrpcessr.dll
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.pdb
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/DocumentPrpcessr.genruntimeconfig.cache
+/Users/sarahalsarami/DocumentPrpcessr/obj/Debug/net8.0/ref/DocumentPrpcessr.dll
